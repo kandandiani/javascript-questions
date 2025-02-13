@@ -12,14 +12,14 @@
 ###### 1. 输出是什么？
 
 ```javascript
-function sayHi() {
-  console.log(name)
-  console.log(age)
-  var name = 'Lydia'
-  let age = 21
+function sayHi() {函数sayHi（）{
+  console.log(name)console.log（名称）
+  console.log(age)console.log（年龄）
+  var name = 'Lydia'var name='莉迪亚'
+  let age = 21让年龄=21
 }
 
-sayHi()
+sayHi()sayHi（）
 ```
 
 - A: `Lydia` 和 `undefined`
